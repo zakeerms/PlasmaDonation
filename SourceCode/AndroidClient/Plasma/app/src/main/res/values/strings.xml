@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Plasma Donation</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="Registration">Registration</string>
+    <string name="choose_image">Select Image</string>
+    <string-array name="BloodGroup">
+        <item>A+</item>
+        <item>B+</item>
+        <item>O+</item>
+        <item>AB+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>O-</item>
+        <item>AB-</item>
+    </string-array>
+</resources>
